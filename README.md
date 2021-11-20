@@ -1,7 +1,12 @@
 ### Hi there 👋
+### 🔭 I’m currently working on a top-secret project.
+### 🌱 I’m currently learning Python & Javascript..
+### 🤔 I’m looking for help with Data Science, ML & AI. And Mathematics.
+### 👯 I’m looking to collaborate on anything productive and fun relating to javascript & python
+### 📫 You can reach me on my twitter https://twitter.com/__tomiwa_ ;)
 
 <!--
-**tomiwa-a/tomiwa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tomiwa-a/tomiwa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  GitHub profile.
 
 Here are some ideas to get you started:
 
