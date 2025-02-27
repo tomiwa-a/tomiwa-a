@@ -1,8 +1,7 @@
 ### Hi there 👋
-### 🔭 I’m currently working on a top-secret project.
-### 🌱 I’m currently learning Python & Javascript..
+### 🌱 I’m currently learning Backend Development with Golang & Javascript..
 ### 🤔 I’m looking for help with Data Science, ML & AI. And Mathematics.
-### 👯 I’m looking to collaborate on anything productive and fun relating to javascript & python
+### 👯 I’m looking to collaborate on anything productive and fun relating to backend
 ### 📫 You can reach me on my twitter https://twitter.com/__tomiwa_ ;)
 
 <!--
