@@ -1,7 +1,4 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Backend Development with Golang & Javascript..
-### 🤔 I’m looking for help with Data Science, ML & AI. And Mathematics.
-### 👯 I’m looking to collaborate on anything productive and fun relating to backend
 ### 📫 You can reach me on my twitter https://twitter.com/__tomiwa_ ;)
 
 <!--
