@@ -1,17 +1,24 @@
-### Hi there 👋
-### 📫 You can reach me on my twitter https://twitter.com/__tomiwa_ ;)
+### Hey.
 
-<!--
-**tomiwa-a/tomiwa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  GitHub profile.
+I'm **Tomiwa**, a software engineer who loves building **backend systems** and digging into how things work under the hood.  
+Right now, I’m spending most of my time on:  
+- building my own **database** from scratch  
+- experimenting with **microservice apps** in different languages (Go, Node.js, Golang, Java…)  
+- working on **enterprise-level backends** with queues, workers, and scaling  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I use
+- **Languages:** Go, Node.js (TypeScript/JavaScript), Python, C++
+- **Databases & Storage:** PostgreSQL, SQL Server, Redis, ElasticSearch  
+- **Infra & Tools:** Docker, Kubernetes, CI/CD, Git, event-driven systems  
+
+---
+
+### 🌱 What’s next
+Learning more about **distributed systems, compilers, and large-scale infra**.  
+Always curious about how to push backend engineering further.  
+
+---
+
+📫 You can reach me on [Twitter](https://x.com/tomiwa.amole)  
