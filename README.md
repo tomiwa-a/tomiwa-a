@@ -9,7 +9,7 @@ Right now, I’m spending most of my time on:
 ---
 
 ### 🔧 Tech I use
-- **Languages:** Go, Node.js (TypeScript/JavaScript), Python, C++
+- **Languages:** ASP.NET , Go, Node.js (TypeScript/JavaScript), Python, C++
 - **Databases & Storage:** PostgreSQL, SQL Server, Redis, ElasticSearch  
 - **Infra & Tools:** Docker, Kubernetes, CI/CD, Git, event-driven systems  
 
