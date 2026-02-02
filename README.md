@@ -14,17 +14,17 @@ Right now, I’m spending most of my time on:
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 
 - 📡 [git-radar](https://github.com/tomiwa-a/git-radar) - Navigate commits, switch branches, view diffs – all in one interactive terminal UI.
-- ⚡ [Relay](https://github.com/tomiwa-a/Relay) - Reliably execute background jobs across distributed workers using PostgreSQL, Kafka, and Redis.
 - 📝 [Cellulose](https://github.com/tomiwa-a/re-write) - Offline-first note-taking and drawing web application with real-time collaboration.
-- 💬 [chat_analyser](https://github.com/tomiwa-a/chat_analyser) - Analyze and visualize chat data.
-- 🪵 [raft](https://github.com/tomiwa-a/raft) - Implementation of the Raft distributed consensus algorithm.
+- ⚡ [Relay](https://github.com/tomiwa-a/Relay) - Reliably execute background jobs across distributed workers using PostgreSQL, Kafka, and Redis.
 - 🗄️ [database](https://github.com/tomiwa-a/database) - A custom-built Key-Value store with value history, destined to evolve into a full database.
-- 🛒 [marketplace](https://github.com/tomiwa-a/marketplace) - Microservice app with Golang, Node.js, and Kong for API gateway.
 - 🎲 [repeek](https://github.com/tomiwa-a/repeek) - Sports prediction marketplace platform for tipsters and followers.
-- 💐 [seaside-bouquet-page](https://github.com/tomiwa-a/seaside-bouquet-page) - Digital flower bouquet generation.
+- 🛒 [marketplace](https://github.com/tomiwa-a/marketplace) - Microservice app with Golang, Node.js, and Kong for API gateway.
+- 🪵 [raft](https://github.com/tomiwa-a/raft) - Implementation of the Raft distributed consensus algorithm.
+- 💬 [chat_analyser](https://github.com/tomiwa-a/chat_analyser) - Analyze and visualize chat data.
+- 💐 [bouquet-gen](https://github.com/tomiwa-a/seaside-bouquet-page) - Digital flower bouquet generation.
 
 ---
 
