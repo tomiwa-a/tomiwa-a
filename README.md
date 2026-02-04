@@ -23,6 +23,9 @@ Right now, I’m spending most of my time on:
 - 🎲 [repeek](https://github.com/tomiwa-a/repeek) - Sports prediction marketplace platform for tipsters and followers.
 - 🛒 [marketplace](https://github.com/tomiwa-a/marketplace) - Microservice app with Golang, Node.js, and Kong for API gateway.
 - 🪵 [raft](https://github.com/tomiwa-a/raft) - Implementation of the Raft distributed consensus algorithm.
+- 🧠 [hippo](https://github.com/tomiwa-a/hippo) - Local-first knowledge engine with semantic search and MCP integration for AI agents.
+- 🤖 [marrow](https://github.com/tomiwa-a/marrow) - Autonomous CLI agent that automates job hunting using computer vision and LLM reasoning.
+- 🎮 [gilded-cage](https://github.com/tomiwa-a/gilded-cage) - Interactive game project with market simulation mechanics.
 - 💬 [chat_analyser](https://github.com/tomiwa-a/chat_analyser) - Analyze and visualize chat data.
 - 💐 [bouquet-gen](https://github.com/tomiwa-a/seaside-bouquet-page) - Digital flower bouquet generation.
 
