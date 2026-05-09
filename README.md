@@ -19,10 +19,12 @@ Right now, I’m spending most of my time on:
 - 📡 [git-radar](https://github.com/tomiwa-a/git-radar) - Navigate commits, switch branches, view diffs – all in one interactive terminal UI.
 - 📝 [Cellulose](https://github.com/tomiwa-a/re-write) - Offline-first note-taking and drawing web application with real-time collaboration.
 - ⚡ [Relay](https://github.com/tomiwa-a/Relay) - Reliably execute background jobs across distributed workers using PostgreSQL, Kafka, and Redis.
+- 🔁 [replay](https://github.com/tomiwa-a/replay) - A CLI-based execution engine for declarative end-to-end workflow testing with API and database support.
 - 🗄️ [database](https://github.com/tomiwa-a/database) - A custom-built Key-Value store with value history, destined to evolve into a full database.
 - 🎲 [repeek](https://github.com/tomiwa-a/repeek) - Sports prediction marketplace platform for tipsters and followers.
 - 🛒 [marketplace](https://github.com/tomiwa-a/marketplace) - Microservice app with Golang, Node.js, and Kong for API gateway.
 - 🪵 [raft](https://github.com/tomiwa-a/raft) - Implementation of the Raft distributed consensus algorithm.
+- 🌱 [graft](https://github.com/tomiwa-a/graft) - A Go-based CLI tool that brings Git-like branching workflows to local Docker databases.
 - 🧠 [hippo](https://github.com/tomiwa-a/hippo) - Local-first knowledge engine with semantic search and MCP integration for AI agents.
 - 🤖 [marrow](https://github.com/tomiwa-a/marrow) - Autonomous CLI agent that automates job hunting using computer vision and LLM reasoning.
 - 🎮 [gilded-cage](https://github.com/tomiwa-a/gilded-cage) - Interactive game project with market simulation mechanics.
